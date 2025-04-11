@@ -1,4 +1,4 @@
-# 🛡️ Stegano Tool v2
+# 🛡️ Stegano Tool 
 Bu proje, Python ile geliştirilmiş bir steganografi ve dosya gömme uygulamasıdır.
 
 ## Özellikler
